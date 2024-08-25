@@ -1,2 +1,2 @@
-# practica-git-github
+# Practica-git-github
 Repositorio de pruebas para el curso de Alura sobre Git y GitHub
